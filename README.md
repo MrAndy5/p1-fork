@@ -25,14 +25,21 @@ Durante la introducción a la asignatura se realizó un fork del repositorio ori
 
 1. **Clonado del Repositorio:**
    - Se utilizó el comando `git clone` para clonar el repositorio `p1-fork` a un codespace.
+     
+   ![Ejemplo de comando git clone](images/git_clone.png)
+   
    - Después de ejecutar el comando `git status`, se confirmó que el repositorio estaba actualizado con respecto a la rama principal (`main`).
 
    ![Ejemplo de comando git status](images/git_status.png)
 
-2. **Creación de una Branch:**
+3. **Creación de una Branch:**
    - Se creó una nueva branch en el repositorio.
+  
+   ![Ejemplo de creación de una nueva branch y archivo](images/git_branch.png)
+     
    - Se realizaron cambios en esta branch y se subieron al repositorio en la nube usando los comandos necesarios de Git.
 
+   ![Subida de actualizaciones](images/git_update.png)
 ---
 
 ### Entorno de Desarrollo Java
@@ -46,6 +53,10 @@ Dado que en el cuatrimestre anterior cursé Ingeniería de Software, ya tenía c
 
 - **Editores de Código:**
   - Instalación de Visual Studio Code (VSCode) y IntelliJ IDEA Community Edition.
+ 
+    ![Página principal de Vscode](images/vscode.png)
+
+    ![Página de proyectos de IntelliJ](images/intelliJ.png)
 
 ---
 
