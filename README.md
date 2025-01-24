@@ -40,6 +40,8 @@ Durante la introducción a la asignatura se realizó un fork del repositorio ori
    - Se realizaron cambios en esta branch y se subieron al repositorio en la nube usando los comandos necesarios de Git.
 
    ![Subida de actualizaciones](images/git_update.png)
+
+   - Por último, para subir las imágenes del código se utilizó el comando git add files.
 ---
 
 ### Entorno de Desarrollo Java
